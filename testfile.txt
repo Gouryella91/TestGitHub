@@ -1,0 +1,4 @@
+!# /usr/bin/bash
+
+'''hehehe trying to learn github/python is freaking hard...'''
+
